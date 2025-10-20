@@ -16,11 +16,16 @@ My passion lies in transforming **complex financial and operational data** into 
 
 | Category | Tools & Technologies |
 
-| **Programming & Analytics** | Python (pandas, numpy, scikit-learn, matplotlib, seaborn) |
+| **Programming & Analytics** | Cobol, JCL, VSAM, Python (pandas, numpy, scikit-learn, matplotlib, seaborn) |
+
 | **Visualization & BI** | Power BI, Tableau |
-| **Databases** | SQL, DB2, Oracle |
+
+| **Databases** | SQL, DB2|
+
 | **Machine Learning** | Regression, Classification, Clustering, Time Series Forecasting |
+
 | **Other Tools** | Excel, Git/GitHub |
+
 | **Domain Knowledge** | Investment Banking, Risk Analytics, Client Retention, Financial KPIs |
 
 🚀 Featured Projects
